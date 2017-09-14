@@ -1,4 +1,4 @@
 # AiGuo-
 艾果君整理的实用教程及艾果科技软件
 
-[我的简介]|(/example/profile.md)
+|[艾果教程](https://github.com/jixu1997918/readmetest.wiki.git "悬停显示")|
